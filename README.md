@@ -19,6 +19,8 @@ Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-Joshi&theme=tokyonight" alt="mystreak"/>
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=Het-Joshi&theme=tokyonight" />
+
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/github/followers/Het-Joshi?style=social"
