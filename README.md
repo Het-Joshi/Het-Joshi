@@ -3,7 +3,7 @@
 
 
 
-<a href="https://app.daily.dev/DailyDevTips" target="_blank"><img src="https://github.com/Het-Joshi/Het-Joshi/blob/main/devcard.svg" width="300" align="right" alt="Het Joshi's Dev Card"/></a>
+<a href="https://app.daily.dev/jetjoshi" target="_blank"><img src="https://github.com/Het-Joshi/Het-Joshi/blob/main/devcard.svg" width="300" align="right" alt="Het Joshi's Dev Card"/></a>
 
 Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, and cyber-security. I love to explore new technologies and challenge myself with complex projects that push the boundaries of what's possible.
 
