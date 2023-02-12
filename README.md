@@ -46,7 +46,6 @@ Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, a
   </a>
 </p>
 
-![Snake animation](https://github.com/Het-Joshi/github-readme/blob/output/github-contribution-snake.svg)
 
 ## Follow Me
 
