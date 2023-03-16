@@ -7,6 +7,8 @@
 
 Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, and cyber-security. I love to explore new technologies and challenge myself with complex projects that push the boundaries of what's possible.
 
+![](https://komarev.com/ghpvc/?username=Het-Joshi)
+
 ## Skills
 - Open-Source Technologies
 - Linux Systems
