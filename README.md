@@ -20,6 +20,7 @@ Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, a
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-Joshi&theme=tokyonight" alt="mystreak"/>
 
+<a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/avatars/majorgeek.gif" alt="major geek" border="0"></a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Het-Joshi&theme=tokyonight" />
 
