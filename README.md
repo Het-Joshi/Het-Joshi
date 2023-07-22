@@ -15,7 +15,9 @@ Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, a
 - Coding (Python, C++, Java, etc.)
 - Cyber-Security
 
-
+[![Het-Joshi's GitHub | Stats](https://stats.quine.sh/Het-Joshi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Het-Joshi)
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Het-Joshi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" align="center" margin= 4px/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-Joshi&theme=tokyonight" alt="mystreak"/>
