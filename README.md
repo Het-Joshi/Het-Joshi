@@ -10,10 +10,10 @@ Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, a
 ![](https://komarev.com/ghpvc/?username=Het-Joshi)
 
 ## Skills
-- Open-Source Technologies
-- Linux Systems
-- Coding (Python, C++, Java, etc.)
-- Cyber-Security
+- **Open-Source Technologies**
+- **Linux Systems**
+- **Coding (Python, C++, Java, etc.)**
+- **Cyber-Security**
 
 [![Het-Joshi's GitHub | Stats](https://stats.quine.sh/Het-Joshi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Het-Joshi)
 <br>
