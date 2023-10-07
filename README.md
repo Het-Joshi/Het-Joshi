@@ -26,6 +26,8 @@ Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, a
 
 <img src="https://github-profile-trophy.vercel.app/?username=Het-Joshi&theme=tokyonight" />
 
+[![An image of @hetjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hetjoshi)](https://holopin.io/@hetjoshi)
+
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/github/followers/Het-Joshi?style=social"
