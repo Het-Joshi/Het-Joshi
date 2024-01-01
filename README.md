@@ -55,6 +55,9 @@ Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, a
   </a>
 </p>
 
+# My goal is to reduce the threats on this map:
+
+<iframe width="640" height="640" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
 
 ## Follow Me
 
