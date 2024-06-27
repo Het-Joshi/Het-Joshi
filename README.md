@@ -1,7 +1,8 @@
 # Welcome to my GitHub Profile 👋
 <br>
-<a href="https://app.daily.dev/jetjoshi"><img src="https://api.daily.dev/devcards/v2/AO9uBRcEYSWaOewjypoK5.png?type=default&r=85t" width="356" alt="Het Joshi's Dev Card"/></a>
 
+
+<a href="https://app.daily.dev/jetjoshi" target="_blank"><img src="https://github.com/Het-Joshi/Het-Joshi/blob/main/devcard.svg" width="300" align="right" alt="Het Joshi's Dev Card"/></a>
 Hi, I'm a technology enthusiast with a passion for open-source, Linux, coding, and cyber-security. I love to explore new technologies and challenge myself with complex projects that push the boundaries of what's possible.
 
 ![](https://komarev.com/ghpvc/?username=Het-Joshi)
