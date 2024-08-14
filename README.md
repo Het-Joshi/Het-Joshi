@@ -65,11 +65,3 @@ I in-frequently write blogs and my experiences:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-Joshi&theme=tokyonight" alt="mystreak"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Het-Joshi&theme=tokyonight" />
-
-
-
-
-## Follow Me
-
-- [LinkedIn](https://www.linkedin.com/in/het-joshi)
-- [Twitter](https://twitter.com/jetjoshi)
