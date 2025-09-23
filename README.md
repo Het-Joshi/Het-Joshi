@@ -22,7 +22,6 @@ I in-frequently write blogs and my experiences:
 ## Follow Me
 
 - [LinkedIn](https://www.linkedin.com/in/het-joshi)
-- [Twitter](https://twitter.com/jetjoshi)
 
 ---
 
