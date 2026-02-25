@@ -26,7 +26,7 @@ I in-frequently write blogs and my experiences:
 ---
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img src="https://img.shields.io/github/followers/Het-Joshi?style=social"
          alt="GitHub followers">
@@ -51,16 +51,15 @@ I in-frequently write blogs and my experiences:
     <img src="https://img.shields.io/github/license/Het-Joshi/blog?style=flat"
          alt="GitHub license">
   </a>
-</p>
+</p> -->
 
 
-[![Het-Joshi's GitHub | Stats](https://stats.quine.sh/Het-Joshi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Het-Joshi)
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Het-Joshi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" align="center" margin= 4px/> 
+
+<!-- <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Het-Joshi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" align="center" margin= 4px/>  -->
 
 <a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/avatars/majorgeek.gif" alt="major geek" border="0"></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-Joshi&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Het-Joshi&theme=tokyonight" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Het-Joshi&theme=tokyonight" /> -->
