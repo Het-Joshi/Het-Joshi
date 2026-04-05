@@ -21,7 +21,7 @@ I in-frequently write blogs and my experiences:
 
 ## Follow Me
 
-- [LinkedIn](https://www.linkedin.com/in/het-joshi)
+- [LinkedIn](https://www.linkedin.com/in/hetjoshi)
 
 ---
 
