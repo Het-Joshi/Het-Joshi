@@ -1,65 +1,114 @@
-# Namaste!
-<br>
+<!--
+  ============================================================================
+  GitHub PROFILE README for Het Joshi  -  two-column (landscape) layout
+  ----------------------------------------------------------------------------
+  Put this as README.md in a repo named EXACTLY your username (e.g. het-joshi).
 
+  Two-column layout uses an HTML <table>. The blank lines right after each
+  <td> and before each </td> are REQUIRED - they are what lets GitHub render
+  the ```code``` blocks (with color) inside the cells. Do not remove them.
 
-<a href="https://app.daily.dev/jetjoshi" target="_blank"><img src="https://github.com/Het-Joshi/Het-Joshi/blob/main/devcard.svg" width="300" align="right" alt="Het Joshi's Dev Card"/></a>
-I'm a Technology enthusiast and a self-aclaimed Geek. I am deeply motivated to contribute to the field of Cybersecurity and strive to make the internet a safer place for all of us. I also stand for privacy and User rights and freedom. I also am a avid open-source evangelist and love building tools that help everyone to make their lives easier!
-I in-frequently write blogs and my experiences:
-- https://het-joshi.github.io/
-- https://het-joshi.github.io/robots_txt/
+  Wide items (banner, badges, stats) stay full width outside the table so
+  they do not get squeezed into half a column.
 
-![](https://komarev.com/ghpvc/?username=Het-Joshi)
+  <<< EDIT >>>  swap "het-joshi" for your username in the stat/badge URLs,
+  and replace the email + LinkedIn links at the bottom.
 
-## Skills
-- Computer Networks and Network Security
-- Linux System Administration and Management
-- Programming Languages (Rust, Java, C/C++, Python, Bend, Ruby)
-- Web Application Development and Security
-- Cryptography
-- Post-Quantum Communication and Security
+  TIP: preview on github.com (or a gist) before committing - table + code
+  block rendering is best checked live.
+  ============================================================================
+-->
+<center>
+  
+```
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+                      ⠀⠀⠀⠀⠀⠀⢀⡦⢦⡀⠀⢹⠄⠀⣠⠤⠀⠢⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠆⠦⠄⠖⠒⣆⠀⠀⠀⠀⠀⠀⠀⠀⡀⣠⣀⣀⠀⠀⠀⢠⠟⠊⡉⠉⠓⣄⠀⠀⠀⠀⠀⠀
+                      ⠀⠀⠀⠀⠀⠀⠫⣀⡬⠹⡆⣘⢣⠚⠀⠀⠀⡀⠀⠉⢦⡀⠀⠀⣀⡀⠀⠨⡅⠀⠀⠀⠀⠀⢘⠂⠀⠀⠀⠀⠀⢐⣞⠛⠉⠀⠉⠛⣰⡀⡏⠀⢼⠁⠀⢀⣭⠁⠀⠀⠀⠀⠀
+                      ⠀⠀⠀⠀⢀⢀⣀⠀⠀⠀⠏⡖⣚⠀⢀⡸⠋⠉⢹⠀⣽⡇⢠⠏⠉⠉⠓⢦⣹⡀⡠⡆⡀⣠⢇⠔⠂⠃⢢⡀⠀⢾⠄⠀⡶⠒⣄⠀⠀⢿⢧⠀⠈⠓⡿⠊⠉⠀⠀⠀⠀⠀⠀
+                      ⠀⢀⠖⣦⠽⠒⠱⠪⠝⢦⣴⣡⢭⠀⠀⢳⣀⢀⣉⡸⠧⠀⣈⠇⠀⠀⡀⠠⡥⡱⡛⣝⡽⢇⠅⠀⠀⠀⠸⠇⠀⠷⢧⢀⢉⡹⠮⠀⠀⣹⠾⣀⢤⠲⣞⡉⣉⣙⠘⠲⣄⡀⠀
+                      ⢰⠿⡯⠁⡠⡤⣀⠀⠀⠀⠈⠑⢎⢦⡀⠀⠈⠘⠉⠁⠀⠀⢛⠀⠀⠀⠉⡵⢃⣿⣛⣝⣷⡘⢯⠉⠁⠀⠀⢩⡆⠀⠈⠛⠉⠓⠁⠀⣠⡽⠃⠓⠉⠀⠀⠀⢀⡈⠓⣦⡈⢧⠆
+                      ⣼⡰⡅⠸⣁⣚⠀⢺⠀⠀⢀⠀⠀⠀⢳⢦⣠⠦⠤⠄⣀⠀⢀⡷⠗⣃⡼⢏⢃⡛⡽⢿⡓⢚⠽⠒⠠⢤⠤⠒⠁⠀⣠⣤⠤⣤⣀⠞⠃⢀⢤⡀⠀⠀⣄⣳⠋⡙⢦⠈⣆⠼⡟
+                      ⢸⣧⠩⢦⣀⢁⣀⠏⠀⠀⠈⠉⠉⠈⠁⠀⠀⠉⠓⠘⠓⠚⠥⣠⠔⠀⠀⢀⠎⠡⣸⡍⠎⢣⠀⠀⠉⣎⡑⢲⠴⠼⠁⠐⠘⠋⠀⠉⠒⠐⠊⠁⠀⠀⣜⣥⠐⠧⠚⢩⣗⠀⠃
+                      ⠀⠉⠱⠾⠽⡫⠄⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣀⠀⠀⠀⠀⠀⡥⡇⠀⠀⠀⠀⢀⡔⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⠦⢶⡞⠟⠀⠀⠀
+                      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠫⢤⢀⠾⠁⠹⣀⠀⣠⠝⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                  ⠀    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
+</center>
+<div align="center">
 
-## Follow Me
+`security researcher` · `network measurement` · `IoT & smart-TV privacy` · `anonymity`
 
-- [LinkedIn](https://www.linkedin.com/in/hetjoshi)
+![Focus](https://img.shields.io/badge/focus-network_measurement-E2451E?style=flat-square&labelColor=16130E)
+![Role](https://img.shields.io/badge/M.S._CS-Northeastern-1C6E63?style=flat-square&labelColor=16130E)
+![Lab](https://img.shields.io/badge/lab-Mon(IoT)r-7A1F12?style=flat-square&labelColor=16130E)
+![Status](https://img.shields.io/badge/status-open_to_collab-F5C518?style=flat-square&labelColor=16130E)
+
+</div>
+
+### `$ cat whoami.yaml`
+
+```yaml
+name:       "Het Joshi"
+role:       "Security & Network Measurement Researcher"
+based_in:   "Boston, MA"
+education:  "M.S. CS, Northeastern University (Khoury)"
+graduating: "May 2027"
+research:
+  - "Mon(IoT)r Lab: IoT and smart-TV privacy"
+  - "IIT Bombay Trust Lab: anonymity and censorship"
+founder:    "Mukti, 1,200+ developers"
+prior:      ["IIT Bombay Trust Lab", "ISRO"]
+```
+
+### `$ ls ~/projects`
+
+```yaml
+ChargeGuard:   "Patented kernel-level DDoS filter, EV chargers (TinyML + eBPF)"
+WhisperBridge: "Local LLM agent, Tor routing + PII stripping"
+SSHRead:       "Covert C2 channel research via SSH usernames"
+EgressProbe:   "Go Kubernetes egress-policy auditor"
+PrivAudit:     "LLM-assisted privacy-policy analysis + cookies"
+CookieKraken:  "Consent-profile web crawler"
+onionpop:      "Popularity list for v3 onion services"
+paperlab:      "Local AI-assisted research workbench"
+```
+
+### `$ echo $STACK`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-16130E?style=flat-square&logo=python&logoColor=E2451E)
+![Go](https://img.shields.io/badge/Go-16130E?style=flat-square&logo=go&logoColor=1C6E63)
+![C](https://img.shields.io/badge/C-16130E?style=flat-square&logo=c&logoColor=F5C518)
+![eBPF](https://img.shields.io/badge/eBPF-16130E?style=flat-square&logo=linux&logoColor=E2451E)
+![Linux](https://img.shields.io/badge/Linux-16130E?style=flat-square&logo=linux&logoColor=F5C518)
+![Wireshark](https://img.shields.io/badge/Wireshark-16130E?style=flat-square&logo=wireshark&logoColor=1C6E63)
+![Docker](https://img.shields.io/badge/Docker-16130E?style=flat-square&logo=docker&logoColor=E2451E)
+![PyTorch](https://img.shields.io/badge/PyTorch-16130E?style=flat-square&logo=pytorch&logoColor=E2451E)
+![LaTeX](https://img.shields.io/badge/LaTeX-16130E?style=flat-square&logo=latex&logoColor=1C6E63)
+
+</div>
+
+### `$ contact --list`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-het--joshi.github.io-E2451E?style=for-the-badge&labelColor=16130E)](https://het-joshi.github.io)
+[![Blog](https://img.shields.io/badge/blog-robots__txt-7A1F12?style=for-the-badge&labelColor=16130E)](https://het-joshi.github.io/robots_txt)
+[![Email](https://img.shields.io/badge/email-contact-1C6E63?style=for-the-badge&labelColor=16130E)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-1C6E63?style=for-the-badge&labelColor=16130E)](https://linkedin.com/in/YOUR-HANDLE)
+
+</div>
+
+<!-- <<< EDIT >>> replace the email + LinkedIn URLs above with your real ones -->
 
 ---
 
+<div align="center">
 
-<!-- <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/github/followers/Het-Joshi?style=social"
-         alt="GitHub followers">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/Het-Joshi/blog?style=social"
-         alt="GitHub stars">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/forks/Het-Joshi/blog?style=social"
-         alt="GitHub forks">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/last-commit/Het-Joshi/blog?style=flat"
-         alt="GitHub last commit">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/issues/Het-Joshi/blog?style=flat"
-         alt="GitHub issues">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/license/Het-Joshi/blog?style=flat"
-         alt="GitHub license">
-  </a>
-</p> -->
+<!-- <<< EDIT >>> swap "het-joshi" for your real GitHub username in both URLs -->
 
+`echo "thanks for stopping by"`
 
-
-<!-- <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Het-Joshi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" align="center" margin= 4px/>  -->
-
-<a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/avatars/majorgeek.gif" alt="major geek" border="0"></a>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-Joshi&theme=tokyonight" alt="mystreak"/>
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Het-Joshi&theme=tokyonight" /> -->
+</div>
